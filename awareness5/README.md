@@ -2,9 +2,9 @@
 
 This is a program that is able to edit itself. 
 
-I feel the need to involve the obvious disclaimer, because this program is effectually able to modify it's own code, there is some degree of danger in taking what I have here and
+I feel the need to involve the obvious disclaimer, because this program is effectually able to modify its own code, there is some degree of danger in taking what I have here and
 modifying and especially in integrating it with other programs. Really it's ability to change itself is quite limited and probably benign, but it seems foolish not to remind whoever on the 
-internet that might be seeing this that a self-modifying program can be dangerous if used badly. So though I think it is very unlikelythat anything will go wrong, here is the disclaimer!
+internet that might be seeing this that a self-modifying program can be dangerous if used badly. So though I think it is very unlikely that anything will go wrong, here is the disclaimer!
 
 I thought it would be interesting to make a program that can edit its own code. Both because that just seemed cool, and because such a goal seemed totally attainable!
 
